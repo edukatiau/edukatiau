@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Twitter Bot**
 
-- 🌱 I’m currently learning **No-Code & Python 3**
+- 🌱 I’m currently learning **Python 3**
 
 - 🤝 I’m looking to collaborate on **Virtual Assistant**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [github.com/edukatiau](github.com/edukatiau)
 
-- ⚡ Fun fact **I love play volleyball**
+- ⚡ Fun fact **I play volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

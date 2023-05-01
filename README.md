@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/edukatiau" target="blank"><img src="https://img.shields.io/twitter/follow/edukatiau?logo=twitter&style=for-the-badge" alt="edukatiau" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Bot**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Python 3**
+- 🌱 I’m currently learning **Python 3 and Java**
 
-- 🤝 I’m looking to collaborate on **Virtual Assistant**
+- 🤝 I’m looking to collaborate on **Nothing**
 
 - 👨‍💻 All of my projects are available at [github.com/edukatiau](github.com/edukatiau)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [github.com/edukatiau](github.com/edukatiau)
 
-- ⚡ Fun fact **I play volleyball**
+- ⚡ Fun fact **I mentor robotic teams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

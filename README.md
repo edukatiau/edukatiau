@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/edukatiau" target="blank"><img src="https://img.shields.io/twitter/follow/edukatiau?logo=twitter&style=for-the-badge" alt="edukatiau" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently learning **Análise e Desenvolvimento de Sistemas**
 
 - 🌱 I’m currently learning **Python 3 and Java**
 
-- 🤝 I’m looking to collaborate on **Nothing**
+- 🤝 I’m looking to collaborate on **###**
 
 - 👨‍💻 All of my projects are available at [github.com/edukatiau](github.com/edukatiau)
 

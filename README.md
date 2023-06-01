@@ -34,4 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edukatiau&show_icons=true&locale=en" alt="edukatiau" /></p>
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardo-rigon" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduardo-rigon?trk=profile-badge">Eduardo Rigon</a></div>
+
+![snake gif]
+(https://github.com/edukatiau/edukatiau/blob/output/github-contribution-grid-snake.gif)
               

@@ -1,39 +1,45 @@
+
 <h1 align="center">Hi 👋, I'm Eduardo Rigon</h1>
 <h3 align="center">A enthusiastic developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edukatiau&label=Profile%20views&color=0e75b6&style=flat" alt="edukatiau" /> </p>
+## Sobre mim
 
-<p align="left"> <a href="https://twitter.com/edukatiau" target="blank"><img src="https://img.shields.io/twitter/follow/edukatiau?logo=twitter&style=for-the-badge" alt="edukatiau" /></a> </p>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul.
+- 💼 Trabalhando como Auxiliar de Qualidade.
+- 🌱 Aprendendo mais sobre Java Spring Boot 3.
 
-- 🔭 I’m currently learning **Análise e Desenvolvimento de Sistemas**
+## Minhas Skills
 
-- 🌱 I’m currently learning **Python 3 and Java**
+**Aplicações e dados**
 
-- 🤝 I’m looking to collaborate on **###**
 
-- 👨‍💻 All of my projects are available at [github.com/edukatiau](github.com/edukatiau)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-- 💬 Ask me about **Python or Automation**
 
-- 📫 How to reach me **eduardorigon2011@gmail.com**
+**Ferramentas de desenvolvimento**
 
-- 📄 Know about my experiences [github.com/edukatiau](github.com/edukatiau)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-- ⚡ Fun fact **I mentor robotic teams**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/edukatiau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edukatiau" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://github.com/edukatiau" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edukatiau&theme=dracula&show_icons=true" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edukatiau&show_icons=true&locale=en&layout=compact" alt="edukatiau" /></p>
+## Onde me encontrar
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edukatiau&show_icons=true&locale=en" alt="edukatiau" /></p>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eduardo-rigon" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/eduardo-rigon?trk=profile-badge">Eduardo Rigon</a></div>
-
-![snake gif](https://github.com/edukatiau/edukatiau/blob/output/github-contribution-grid-snake.gif)
-              
+[![Linkedin](https://img.shields.io/badge/-Eduardo_Rigon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rigon/)](https://www.linkedin.com/in/eduardo-rigon/)
+<a href="mailto:eduardorigon2011@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eduardorigon2011@gmail.com" alt="Gmail"/></a>
+[![GitHub](https://img.shields.io/github/followers/edukatiau?label=follow&style=social)](github.com/edukatiau)
+![](https://komarev.com/ghpvc/?username=edukatiau&color=006bed)
